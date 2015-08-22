@@ -23,6 +23,8 @@ Same steps as above, but make sure you have all the required dlls and libraries 
 
 icudt53.dll, icuin53.dll, icuuc53.dll, libgcc_s_dw2-1.dll, libstdc++-6.dll, libwinpthread-1.dll, Qt5Core.dll, Qt5Gui.dll, Qt5Widgets.dll, and qtfindreplacedialog.dll
 
+These are included in the "required-dlls" folder.
+
 You will also need a folder called platforms. Make that folder and copy qwindows.dll to it.
 
 # Compiling on Mac OS X
