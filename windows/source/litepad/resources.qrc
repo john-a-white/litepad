@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/litepad.ico</file>
+        <file>resources/litepad_new.png</file>
+        <file>resources/litepad_open.png</file>
+        <file>resources/litepad_save.png</file>
+        <file>resources/litepad-96x96.png</file>
+        <file>resources/litepad-about.png</file>
+        <file>resources/litepad-copy.png</file>
+        <file>resources/litepad-cut.png</file>
+        <file>resources/litepad-delete.png</file>
+        <file>resources/litepad-exit.png</file>
+        <file>resources/litepad-find.png</file>
+        <file>resources/litepad-find-replace.png</file>
+        <file>resources/litepad-font.png</file>
+        <file>resources/litepad-logo-32x32.png</file>
+        <file>resources/litepad-paste.png</file>
+        <file>resources/litepad-redo.png</file>
+        <file>resources/litepad-undo.png</file>
+    </qresource>
+</RCC>
